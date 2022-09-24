@@ -6,14 +6,18 @@ body{
     display: flex;
 }
 .flexbox-item{
-    width: 200px;
+    position: relative;
+    top: 100;
+    width: 100vw;
+    height: 43vh;
     margin: 10px;
     border: 3px solid #333;
     background-color: #dfdfdf;
+    
 }
 .flexbox-left{
     min-height: 100px;
 }
 .flexbox-right{
-    min-height: 200px;
+    min-height: 100px;
 }
