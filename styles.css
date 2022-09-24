@@ -38,3 +38,18 @@ body{
 ul li:hover{
     font-weight: 400;
 }
+
+.scoreboard{
+    text-align: center;
+    zoom: 2;
+    color:black;
+}
+
+.scoreboard_name{
+    display: inline-block;
+}
+
+.scoreboard_score{
+    display: inline-block;
+}
+
